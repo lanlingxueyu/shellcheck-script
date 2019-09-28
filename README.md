@@ -8,3 +8,4 @@ Automatically check Python scripts based on the shell check tool
 # tool
   Windows system:
   Please download the corresponding version and put it in the tool directory to modify the corresponding   configuration information.
+  Download the address and view the files under the tool directory.
