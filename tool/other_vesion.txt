@@ -1,0 +1,7 @@
+https://github.com/koalaman/shellcheck
+位置下载预编译的二进制文件以获得最新版本：
+Linux，x86_64(静态链接)
+Linux，armv6hf，即Raspberry PI(静态链接)
+Linux，aarch64又名ARM 64(静态链接)
+MacOS，x86_64
+窗口，x86
