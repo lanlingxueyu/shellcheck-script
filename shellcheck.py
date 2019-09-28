@@ -8,7 +8,7 @@ from concurrent.futures import ThreadPoolExecutor,as_completed
 '''
 shell 静态检查工具shellcheck
 '''
-TOOLS_PATH='tools'
+TOOLS_PATH='tool'
 LOG_PATH = 'logs'
 OS_NAME = platform.system().upper()
 SHELLCHECK={
