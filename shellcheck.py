@@ -244,6 +244,6 @@ if __name__ == '__main__':
 
     end_time = time.time()
     print("===end===", format_time(end_time))
-    print("===finish=== Total execution time:", '%.2f' % (end_time - start_time), "秒")
+    print("===finish=== Total execution time:", '%.2f' % (end_time - start_time), "seconds")
     exit(0)
 
